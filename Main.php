@@ -1,7 +1,5 @@
-<?php
-
 class Main {
-    public static function main($args) {
+    public static function main() {
         echo "Hello, word !\n";
     }
 }
