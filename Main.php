@@ -1,5 +1,2 @@
-class Main {
-    public static function main() {
-        echo "Hello, word !\n";
-    }
-}
+<?php
+echo "Hello, word !\n";
